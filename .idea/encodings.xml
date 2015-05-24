@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="4" />
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/resource/java/M-4_edit.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/creat_M-2.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/create_M-2.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/edit_M-7.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/test.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/журнал доверенностей.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/инвентаризация.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/оприходоватьМ-4.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/отчет об остатках.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/принять_товар.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/расход_М-8.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/форма М-17.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/java/экспорт.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/com/test/MyStepdefs.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/com/test/PrintM17.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/com/test/PrintM17Def.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

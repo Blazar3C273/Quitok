@@ -1,0 +1,47 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-java8-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.commons.codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-spring-1.2.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-html-0.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-jvm-deps-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-all-2.0.2-beta-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com.springsource.javax.jms-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.httpcomponents.httpclient-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-java-1.2.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-support-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-junit-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.httpcomponents.httpcore-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com.springsource.org.apache.log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gherkin-2.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-java8-1.2.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-junit-1.2.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-test-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-jvm-deps-1.0.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-java-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-spring-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-core-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-all-2.0.2-beta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-tx-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.commons.logging-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
